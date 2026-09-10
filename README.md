@@ -7,4 +7,4 @@ untuk memberikan manfaat bagi masyarakat dan organisasi.
 
 ## 🚀 Projects
 
-Berbagai project yang sedang dikembangkan oleh tim UlramanKebaikan
+Berbagai project yang sedang dikembangkan oleh tim UlramanKebaikan.
